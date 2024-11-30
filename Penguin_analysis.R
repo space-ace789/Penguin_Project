@@ -79,3 +79,6 @@ source(here("Functions", "Cleaning.R"))
 #use renv::snapshot() #Creates a snapshot of current R packages
 #use renv::restore() #loads everything from what you were using in the past/lets you load
   #what someone else was using if they have an renv file.
+
+  print("hello")
+  
